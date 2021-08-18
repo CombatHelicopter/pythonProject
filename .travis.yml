@@ -1,4 +1,4 @@
-os: windows
+os: linyx
 dist: focal
 language: python
 
